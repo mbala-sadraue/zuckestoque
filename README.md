@@ -25,6 +25,10 @@ Pré-requisitos: xampp
 # Clonar repositório
 git clone https://github.com/mbala-sadraue/zuckestoque
 
+# entrar na pasta do projeto back end
+# importa o banco de dados na pasta :database/1/Novapasta/127_0_0_1.sql
+# Rodar o sistema.
+
 ```
 
 ## Autor
