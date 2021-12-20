@@ -1,0 +1,45 @@
+html,body,section,.container,.container_caixa{
+	height: 100%;
+}
+body{
+	background: #c1000070; /*#d53333*/<
+}
+.container_caixa{
+	display: flex;
+	justify-content:center;
+	flex-direction: column;
+}
+.caixa_center{
+	margin: 0 auto;
+	#width: 100%;
+	#background: #fff;
+	
+}
+form label{
+	color: #151581;
+	font-size: 14px;
+}
+[class*="form-control"]{
+	color: red;
+	font-size: 13px;
+	box-shadow: 0 0  2px red;
+}
+.btn_login{
+	display: block;
+	background: #fff;
+	border:0;
+	padding: 4% 9%;
+	border-radius: 4px;
+	font-size: 16px;
+	color: #d53333;
+	width: 250px;
+	transition: background  linear 0.5s; 
+
+}
+.btn_login:hover{
+	background:#d53333 ;
+	color:#fff ; 
+	transition: background  linear 0.5s; 
+
+}
+

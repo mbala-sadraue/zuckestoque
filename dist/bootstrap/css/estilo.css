@@ -1,0 +1,132 @@
+/*ESTILO DAS PAGINA DO SISTEMAS*/
+html,body{
+	height:  100%;
+}
+body{
+	font-size: 15px;
+	background: #d533331f;/*#F9F7C1*/
+}
+
+
+
+/*ESTILO DA PAGINA DE LOGIN*/
+
+
+
+
+
+
+
+.header{
+	background:#d53333;
+	color: #fff;
+}
+.background{
+	#background: #fff;
+	padding: 10px;
+}
+.navbar-default .navbar-nav > li > a.link-nav{
+	color: #fff
+}
+.container-header{
+	background: #fff;
+	padding: 1px;
+	color: red;
+	border-bottom:  2px solid #151581; 
+	border-left: 20px solid #151581;
+	box-shadow: 4px 0px 4px rgba(0,0,0,05);
+
+}
+
+
+h1{
+	font-size: 20px;
+	text-transform: uppercase;
+}
+.style-form{
+	padding: 20px;
+	box-shadow: 0 0 20px rgba(0,0,99, 0.5);
+	border-radius: 15px;
+	background: #fff;
+}
+form label{
+	color: #151581;
+	font-size: 14px;
+}
+[class*="form-control"]{
+	color: red;
+	font-size: 13px;
+	box-shadow: 0 0  2px red;
+}
+
+table tr th{
+	color: #fff;
+	font-weight: 300;
+	text-transform: uppercase;
+
+}
+table tr th,td{
+	font-size: 13px;
+	text-align: center;
+}
+.tr-thead{
+	background: #151581; 
+	border-radius: 10px;
+}
+.b0{
+	background: #ffe0008c !important;
+}
+.bh:hover{
+	background: #ffe213 !important;
+}
+.glyphicon-pencil{
+	font-size: 14px ;
+}
+
+
+
+/*BOTÃO DE PESQUISAR O RELATORIO*/
+.btn-relatorio{
+	margin-bottom: 10px;
+}
+
+.botao{
+	background: transparent;
+	border: 0;
+	color: #d53333;
+}
+/*ESTILO DAS PAGINAS DO SISTEMA*/
+.home{
+	background: #fff;
+	padding: 3px;
+	color: red;
+    border-bottom: 2px solid #151581;
+    border-left: 20px solid #151581;
+    box-shadow: 0px 0px 4px rgb(0 0 0);
+
+
+
+}
+.title-2{
+	font-size: 20px;
+	text-transform: uppercase;
+}
+@media screen and (max-width: 503px){
+	table tr th,td{
+	font-size: 9.5px;
+	}
+}
+
+@media print {
+	header,.btn-relatorio{
+		display: none;
+	}
+	.container,.background{
+		padding: 0;
+		margin: 0;
+	}
+	.table> thead>tr{
+		background: red !important;
+	}
+
+} 
