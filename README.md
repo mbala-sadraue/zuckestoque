@@ -33,3 +33,4 @@ git clone https://github.com/mbala-sadraue/zuckestoque
 
 ## Autor
 Mbala Sadraque
+https://www.linkedin.com/in/mbala-sadraque-64577921b/
