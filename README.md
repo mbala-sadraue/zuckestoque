@@ -3,3 +3,16 @@
 # Sobre o projecto
 **Zuckestoque** é uma apliacão  web construída durante um pedido de um cliente.
 Zuckestoque é um sistema de gerenciamento de estoque que consiste em gerir e controlar os produtos de uma loja
+
+
+## funcionalidade de aplicação
+
+
+# Tecnologias utilizadas
+## Back end
+- Php
+## Front end
+- Html
+- Css
+- Bootstrap
+- Jquery
