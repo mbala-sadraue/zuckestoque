@@ -15,4 +15,17 @@ Zuckestoque é um sistema de gerenciamento de estoque que consiste em gerir e co
 - Html
 - Css
 - Bootstrap
-- Jquery
+- Javascript
+-- Jquery
+
+# Como executar o projeto
+
+Pré-requisitos: xampp
+```bash
+# Clonar repositório
+git clone https://github.com/mbala-sadraue/zuckestoque
+
+```
+
+## Autor
+Mbala Sadraque
